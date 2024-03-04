@@ -1,9 +1,4 @@
-h2{
-color: antiquewhite;
-background-color: black;
-
-}
-.ingredientes{
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+table{
+    width: 1000px;
+    align-items: center;
 }
