@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    background-image: linear-gradient(black, grey);
+    background-image: linear-gradient(purple, black);
     display: flex;
     justify-content: space-around;
 }
@@ -20,7 +20,7 @@
 }
 
 .sas{
-   background-image: linear-gradient(grey, black);
+   background-image: linear-gradient(black, purple);
    height: 500px;
    padding: 100px;
    color: white;
@@ -33,4 +33,9 @@
 
 .sis{
     padding: 15px;
+}
+.PINTO{
+    width: 50%;
+    
+
 }
