@@ -21,7 +21,7 @@
 
 .sas{
    background-image: linear-gradient(black, purple);
-   height: 500px;
+   height: 600px;
    padding: 100px;
    color: white;
    
@@ -35,7 +35,11 @@
     padding: 15px;
 }
 .PINTO{
-    width: 50%;
+    width: 39%;
     
 
 }
+.Estudantes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
