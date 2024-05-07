@@ -39,7 +39,15 @@
     
 
 }
-.Estudantes{
+.Alunos{
     display: flex;
     justify-content: space-around;
     align-items: center;
+ }
+.Fotinha-pika{
+ width: 40%;
+}
+
+.PINT{
+    width: 30px;
+}
